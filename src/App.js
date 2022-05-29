@@ -1,4 +1,4 @@
 import './App.css';
-import { LoginPage } from './pages/LoginPage';
+import { AppRouter } from './AppRouter';
 
-export const App = () => <LoginPage />
+export const App = () => <AppRouter />
